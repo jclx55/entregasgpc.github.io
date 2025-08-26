@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <!--
+    A linha abaixo é a meta tag que faz o redirecionamento.
+    O 'content="0"' significa que o redirecionamento será instantâneo.
+    Substitua o URL abaixo pela URL que o Cloudflare Tunnel te der.
+    -->
+    <meta http-equiv="refresh" content="0; url=https://sua-nova-url-do-cloudflare.trycloudflare.com">
+    <title>Redirecionando para o Controle de Entregas...</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding-top: 50px;
+            background-color: #f0f4f8;
+            color: #334155;
+        }
+        .container {
+            max-width: 600px;
+            margin: auto;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Redirecionando para a Aplicação...</h1>
+        <p>Se você não for redirecionado automaticamente, clique no link abaixo:</p>
+        <a href="https://conducting-accommodate-displays-choice.trycloudflare.com/baseteste/" style="color: #4f46e5; text-decoration: none;">Acessar a Aplicação</a>
+    </div>
+</body>
+</html>
